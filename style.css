@@ -16,7 +16,7 @@ ul {
   padding: 0;
 }
 
-.navbar {
+nav {
   background-color: rgb(249, 6, 26);
 }
 
@@ -24,30 +24,29 @@ ul {
   color: black;
 }
 
-header {
-  text-align: center;
-  font-size: 28; 
-  display: inline;
+.caption {
+  background-color: rgb(208, 69, 152);
+  /* display: inline;
+  margin-top: 10rem; */
 }
 
 img {
   /* float: left; */
-  margin-left: 10rem;
+  position: relative;
+  top: 20px;
+  /* margin-left: 10rem; */
   margin-top: 1rem;
-}
-
-.caption {
-  background-color: rgb(208, 69, 152);
   display: inline;
 }
 
 .text {
-  width: 50rem;
-  margin-left: 35rem;
+  width: 5rem;
+  position: relative;
+  /* left: 35rem; */
   padding: 0.5px;
   background-color: white;
   border-radius: 1rem;
-  /* display: inline; */
+  display: inline;
 }
 
 footer {
