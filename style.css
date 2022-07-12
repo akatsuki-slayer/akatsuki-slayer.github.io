@@ -24,15 +24,14 @@ nav {
   color: black;
 }
 
+main {
+  display: flex;
+}
+
 img {
   position: relative;
   top: 20px;
   margin-top: 1rem;
-  display: flex;
-}
-
-.right {
-  display: flex;
 }
 
 .text {
