@@ -27,6 +27,7 @@ nav {
 main {
   display: flex;
   flex-direction: row;
+  justify-content: space-evenly;
 }
 
 img {
@@ -41,7 +42,7 @@ img {
 }
 
 .text {
-  width: 5rem;
+  width: 25rem;
   position: relative;
   padding: 0.5px;
   background-color: white;
