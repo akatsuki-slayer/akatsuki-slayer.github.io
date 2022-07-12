@@ -28,12 +28,7 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-}
-
-img {
-  position: relative;
-  top: 20px;
-  margin-top: 1rem;
+  align-items: center;
 }
 
 .right {
@@ -42,7 +37,7 @@ img {
 }
 
 .text {
-  width: 25rem;
+  width: 40rem;
   position: relative;
   padding: 0.5px;
   background-color: white;
