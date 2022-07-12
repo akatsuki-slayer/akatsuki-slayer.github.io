@@ -26,6 +26,7 @@ nav {
 
 main {
   display: flex;
+  flex-direction: row;
 }
 
 img {
@@ -34,10 +35,14 @@ img {
   margin-top: 1rem;
 }
 
+.right {
+  display: flex;
+  flex-direction: column;
+}
+
 .text {
   width: 5rem;
   position: relative;
-  /* left: 35rem; */
   padding: 0.5px;
   background-color: white;
   border-radius: 1rem;
