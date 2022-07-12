@@ -24,19 +24,15 @@ nav {
   color: black;
 }
 
-.caption {
-  background-color: rgb(208, 69, 152);
-  /* display: inline;
-  margin-top: 10rem; */
-}
-
 img {
-  /* float: left; */
   position: relative;
   top: 20px;
-  /* margin-left: 10rem; */
   margin-top: 1rem;
-  display: inline;
+  display: flex;
+}
+
+.right {
+  display: flex;
 }
 
 .text {
