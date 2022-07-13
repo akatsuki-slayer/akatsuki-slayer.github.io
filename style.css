@@ -40,11 +40,10 @@ main {
 
 .text {
   width: 40rem;
+  padding: 10px;
   position: relative;
-  padding: 0.5px;
   background-color: white;
   border-radius: 1rem;
-  display: inline;
   text-align: justify;
 }
 
