@@ -18,12 +18,13 @@ ul {
 }
 
 nav {
-  background-color: rgb(249, 6, 26);
+  background-color: rgb(2, 131, 252);
+  /* text-align: left; */
 }
 
-.navElem {
+/* .navElem {
   color: black;
-}
+} */
 
 main {
   display: flex;
