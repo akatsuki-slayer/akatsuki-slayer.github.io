@@ -22,10 +22,6 @@ nav {
   /* text-align: left; */
 }
 
-/* .navElem {
-  color: black;
-} */
-
 .flex {
   display: flex;
   flex-direction: row;
@@ -48,7 +44,7 @@ nav {
   margin: auto;
 }
 
-.h1 {
+h1 {
   text-align: center;
 }
 
