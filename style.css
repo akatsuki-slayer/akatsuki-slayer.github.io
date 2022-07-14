@@ -19,10 +19,9 @@ ul {
 
 nav {
   background-color: rgb(2, 131, 252);
-  /* text-align: left; */
 }
 
-.flex {
+main {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
