@@ -74,3 +74,8 @@ a {
 li:hover {
   background-color: chartreuse;
 }
+
+.link {
+  color: black;
+  text-decoration: underline;
+}
