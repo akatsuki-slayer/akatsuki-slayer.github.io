@@ -7,7 +7,7 @@ body {
   font-weight: 100;
   font-size: 18px;
   text-align: center;
-  background: linear-gradient(aqua 0%, white 45%);
+  background: linear-gradient(aqua 0%, white 50%);
   margin: 0;
 }
 
@@ -46,6 +46,10 @@ nav {
 
 h1 {
   text-align: center;
+}
+
+p.top {
+  margin-top: 0;
 }
 
 footer {
