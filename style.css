@@ -21,7 +21,7 @@ nav {
   background-color: rgb(2, 131, 252);
 }
 
-.container {
+main {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
