@@ -1,2 +1,2 @@
-# akatsuki-slayer.github.io
-Online Portfolio
+# Miles Sitcawich's Online Portfolio
+Static website made with HTML and CSS
