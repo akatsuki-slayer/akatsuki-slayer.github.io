@@ -64,16 +64,11 @@ li {
   display: inline-block;
 }
 
-a {
+a.nav {
   text-decoration: none;
   color: white;
 }
 
 li:hover {
   background-color: aqua;
-}
-
-.link {
-  color: black;
-  text-decoration: underline;
 }
