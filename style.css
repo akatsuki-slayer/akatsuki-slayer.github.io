@@ -72,3 +72,10 @@ a.nav {
 li:hover.nav {
   background-color: aqua;
 }
+
+.left {
+  height: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
