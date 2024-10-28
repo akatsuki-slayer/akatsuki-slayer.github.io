@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aystafg/static/css/main.6bbd2fa0.css",
+    "main.js": "/aystafg/static/js/main.bace0ef4.js",
+    "index.html": "/aystafg/index.html",
+    "main.6bbd2fa0.css.map": "/aystafg/static/css/main.6bbd2fa0.css.map",
+    "main.bace0ef4.js.map": "/aystafg/static/js/main.bace0ef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bbd2fa0.css",
+    "static/js/main.bace0ef4.js"
+  ]
+}
