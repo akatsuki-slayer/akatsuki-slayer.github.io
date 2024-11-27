@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/aystafg/static/css/main.e435f296.css",
-    "main.js": "/aystafg/static/js/main.e1bf0812.js",
-    "static/media/awHellNawWTF.mp4": "/aystafg/static/media/awHellNawWTF.ddea86acaf9c11681ff5.mp4",
+    "main.js": "/aystafg/static/js/main.ad87b158.js",
     "index.html": "/aystafg/index.html",
     "main.e435f296.css.map": "/aystafg/static/css/main.e435f296.css.map",
-    "main.e1bf0812.js.map": "/aystafg/static/js/main.e1bf0812.js.map"
+    "main.ad87b158.js.map": "/aystafg/static/js/main.ad87b158.js.map"
   },
   "entrypoints": [
     "static/css/main.e435f296.css",
-    "static/js/main.e1bf0812.js"
+    "static/js/main.ad87b158.js"
   ]
 }
