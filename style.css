@@ -37,7 +37,6 @@ main {
 }
 
 .text {
-  /* width: 45rem; */
   padding: 10px;
   position: relative;
   background-color: white;
@@ -47,6 +46,7 @@ main {
 }
 
 .image {
+  /* can you add padding here? */
   max-height: 600px;
   max-width: 35%; /* Adjust as needed */
   height: auto; /* Maintain aspect ratio */
@@ -58,8 +58,8 @@ main {
     align-items: center; /* Center items */
   }
 
-  .image, .text {
-    max-width: 100%; /* Take full width */
+  .image, .right {
+    width: 90%; /* Take full width */
   }
 }
 
@@ -94,7 +94,6 @@ li:hover.nav {
 }
 
 .left {
-  height: 1200px;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -102,4 +101,9 @@ li:hover.nav {
 
 a {
   display: inline-block;
+}
+
+img {
+  display: block; /* Ensures the images don't have inline space between them */
+  margin-bottom: 20px; /* Adds space below each image */
 }
