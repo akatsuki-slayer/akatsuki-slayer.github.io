@@ -46,20 +46,25 @@ main {
 }
 
 .image {
-  /* can you add padding here? */
-  max-height: 600px;
+  max-height: 650px;
   max-width: 35%; /* Adjust as needed */
   height: auto; /* Maintain aspect ratio */
 }
 
-@media (max-width: 768px) {
+@media (max-width: 700px) or (orientation: portrait) {
   main {
     flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center items */
   }
 
   .image, .right {
-    width: 90%; /* Take full width */
+    max-width: none;
+    width: 75%; /* Take full width */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+  .left {
+    align-items: center;
   }
 }
 
@@ -106,4 +111,5 @@ a {
 img {
   display: block; /* Ensures the images don't have inline space between them */
   margin-bottom: 20px; /* Adds space below each image */
+  padding-top: 15px;
 }
